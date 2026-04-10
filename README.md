@@ -1,4 +1,4 @@
-# Pick and Drop: Air Gesture Image Transfer
+# DropIt: Air Gesture Image Transfer
 
 A web application inspired by Huawei's Air Gesture feature, enabling users to transfer images between devices using hand gestures detected via webcam. Built with React, Express, and ml5.js (Teachable Machine), this project demonstrates real-time gesture recognition and seamless image sharing.
 
