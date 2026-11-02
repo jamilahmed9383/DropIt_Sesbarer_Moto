@@ -2,10 +2,11 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "api.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node api.js",
+    "dev": "node --watch api.js",
+    "test": "node --test"
   },
   "keywords": [],
   "author": "",
